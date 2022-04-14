@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class ClassJenkinsTest {
 	
-
+//commit
 		@Test
 		public void testNGProgramsTest() {     //always method name should be in lowercase 
 			Reporter.log("test1", true);
